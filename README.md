@@ -23,4 +23,4 @@ DataStorage – класс для работы с базой данных. Он 
 
 Столбцы в БД: Состояние (доход/расход), сумма, категория, дата, пользователь.
 
-
+Диаграмма классов: https://github.com/makarevichdarya/OOP/blob/main/ClassDiagramm.png
